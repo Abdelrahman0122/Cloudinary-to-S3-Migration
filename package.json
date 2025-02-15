@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.744.0",
+    "aws-sdk": "^2.1692.0",
+    "axios": "^1.7.9",
+    "cloudinary": "^2.5.1",
+    "dotenv": "^16.4.7",
+    "mongoose": "^8.10.0"
+  }
+}
